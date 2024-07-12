@@ -1,0 +1,42 @@
+.weatherbg{
+    background: url("https://www.treehugger.com/thmb/yICWqsFaKoau2h-wzqGBsid4bKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/scenic-view-of-silhouette-mountains-against-sky-during-sunset-1325186919-166516c836d644dd953f34a3b7fe9c7f.jpg");
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.heading{
+    color: white;
+    font-weight: 700;
+}
+.weatherResultBox{
+    margin: auto;
+    width: 500px;
+    height: 400px;
+}
+.weatherIcon{
+    width: 100px;
+    height: 100px;
+}
+.weatherCity{
+    font-size: 35px;
+}
+.weatherTemp{
+    font-size: 55px;
+    font-weight: 700;
+}
+.Disc{
+    font-size: 20px;
+    font-weight: 100;
+}
+.weatherCommonImg{
+    height: 174px;
+    width: 200px;
+}
+.Info{
+    font-size: 20px;
+    font-weight: 100;
+}
+
+
